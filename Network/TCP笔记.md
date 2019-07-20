@@ -1,10 +1,10 @@
 #### 三次握手过程
 
-[](./three-hand.jpg)
+![](./three-hand.jpg)
 
 #### 状态图
 
-[](./tcp_status.jpeg)
+![](./tcp_status.jpeg)
 
 #### 问题排查工具
 
